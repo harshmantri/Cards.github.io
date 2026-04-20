@@ -1,0 +1,7 @@
+function yesClick() {
+    document.getElementById("result").innerText = "🎉 Welcome to the Game!";
+}
+
+function noClick() {
+    document.getElementById("result").innerText = "💀 You are Eliminated!";
+}
